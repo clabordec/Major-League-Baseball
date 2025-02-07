@@ -54,7 +54,7 @@ The dataset includes:
 - Career trajectories of players
 
 ## Contact
-Author: Chaanyah Laborde <br>
-Email: [chaanyahlaborde@gmail.com](mailto:chaanyahlaborde@gmail.com) <br>
-LinkedIn: [claborde](https://www.linkedin.com/in/claborde/) <br>
+**Author**: Chaanyah Laborde <br>
+**Email**: [chaanyahlaborde@gmail.com](mailto:chaanyahlaborde@gmail.com) <br>
+**LinkedIn**: [claborde](https://www.linkedin.com/in/claborde/) <br>
 
