@@ -53,9 +53,8 @@ The dataset includes:
 - Historical team payroll data
 - Career trajectories of players
 
-## Contributions
-Contributions are welcome! If you'd like to add more queries, improve existing ones, or introduce new analyses, feel free to fork the repository and submit a pull request.
-
-## License
-This project is open-source and available under the [MIT License](LICENSE).
+##
+Author: Chaanyah Laborde
+Email: [chaanyahlaborde@gmail.com](mailto:chaanyahlaborde@gmail.com)
+LinkedIn: [claborde](https://www.linkedin.com/in/claborde/)
 
