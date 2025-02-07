@@ -3,6 +3,8 @@
 ## Overview
 This project analyzes decades' worth of Major League Baseball (MLB) data, including player statistics such as schools attended, salaries, teams played for, height, and weight. Using SQL queries and advanced database techniques, we extract insights into player careers, team spending, and player attributes.
 
+<br>
+
 ## Objectives
 The primary goals of this analysis are:
 1. **Identify Schools Attended by MLB Players** - Determine which schools have produced the most MLB players.
