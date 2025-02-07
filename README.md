@@ -1,5 +1,7 @@
 # Major League Baseball
 
+<br>
+
 ## Overview
 This project analyzes decades' worth of Major League Baseball (MLB) data, including player statistics such as schools attended, salaries, teams played for, height, and weight. Using SQL queries and advanced database techniques, we extract insights into player careers, team spending, and player attributes.
 
