@@ -53,8 +53,8 @@ The dataset includes:
 - Historical team payroll data
 - Career trajectories of players
 
-##
-Author: Chaanyah Laborde
-Email: [chaanyahlaborde@gmail.com](mailto:chaanyahlaborde@gmail.com)
-LinkedIn: [claborde](https://www.linkedin.com/in/claborde/)
+## Contact
+Author: Chaanyah Laborde <br>
+Email: [chaanyahlaborde@gmail.com](mailto:chaanyahlaborde@gmail.com) <br>
+LinkedIn: [claborde](https://www.linkedin.com/in/claborde/) <br>
 
