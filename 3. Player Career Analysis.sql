@@ -3,7 +3,7 @@
     Sort from longest career to shortest career.
 */
 SELECT nameGiven,
-	   TIMESTAMPDIFF(YEAR, CAST(CONCAT(birthYear, '-', birthMonth, '-', birthDay) AS DATE), debut) AS starting_age,
+       TIMESTAMPDIFF(YEAR, CAST(CONCAT(birthYear, '-', birthMonth, '-', birthDay) AS DATE), debut) AS starting_age,
        TIMESTAMPDIFF(YEAR, CAST(CONCAT(birthYear, '-', birthMonth, '-', birthDay) AS DATE), finalGame) AS ending_age,
        TIMESTAMPDIFF(YEAR, debut, finalGame) AS career_length
 FROM players
@@ -15,7 +15,7 @@ SELECT * FROM players;
 
 -- What team did each player played on for their starting and ending years?
 SELECT nameGiven,
-	   s.yearID AS starting_year,
+       s.yearID AS starting_year,
        s.teamID AS starting_team,
        e.yearID AS ending_year,
        e.teamID AS ending_team
@@ -35,7 +35,7 @@ SELECT * FROM salaries;
 
 -- How many players started and ended on the same team and also played for over a decade?
 SELECT nameGiven,
-	   s.yearID AS starting_year,
+       s.yearID AS starting_year,
        s.teamID AS starting_team,
        e.yearID AS ending_year,
        e.teamID AS ending_team
