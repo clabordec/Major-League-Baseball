@@ -1,6 +1,8 @@
 -- Return the top 20% of teams in terms of average annual spending
 WITH team_total_spend AS (
-	SELECT yearID, teamID, SUM(salary) AS total_spend
+	SELECT yearID, 
+	       teamID, 
+	       SUM(salary) AS total_spend
 	FROM salaries
 	GROUP BY yearID, teamID
 ),
