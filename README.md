@@ -1,60 +1,65 @@
-# Major League Baseball
+# ⚾ Major League Baseball  
 
-<br>
+📌 **Overview**  
+This project analyzes decades' worth of Major League Baseball (MLB) data, focusing on player and team statistics. As a Data Analyst, the goal is to:  
 
-## Overview
-This project analyzes decades' worth of Major League Baseball (MLB) data, including player statistics such as schools attended, salaries, teams played for, height, and weight. Using SQL queries and advanced database techniques, we extract insights into player careers, team spending, and player attributes.
+- Structure and query player, salary, and team data.  
+- Extract insights into player careers, team spending, and player attributes.  
+- Provide impactful analysis to support scouting, budgeting, and performance evaluation.  
 
-<br>
+---
 
-## Objectives
-The primary goals of this analysis are:
-1. **Identify Schools Attended by MLB Players** - Determine which schools have produced the most MLB players.
-2. **Analyze Team Salary Spending** - Assess how much each team spends on player salaries over the years.
-3. **Examine Player Careers** - Track the career paths of individual players, including teams played for and performance over time.
-4. **Compare Player Attributes** - Investigate height, weight, and other player characteristics to uncover patterns and trends.
+🎯 **Objectives**  
+- Identify schools that have produced the most MLB players.  
+- Analyze team salary spending across decades.  
+- Track player career paths (teams played for, longevity, performance).  
+- Compare player attributes such as height and weight to uncover trends.  
 
+---
 
-## Skills Utilized
-This project leverages SQL database techniques, including:
-- **MySQL** - Managing and querying structured data.
-- **Common Table Expressions (CTEs)** - Organizing complex queries for readability and efficiency.
-- **Subqueries** - Extracting insights from nested queries.
-- **Window Functions** - Performing calculations across partitions of data.
-- **JOINs** - Combining multiple tables to create meaningful relationships.
-- **Functions by Data Type** - Using appropriate functions for text, numerical, and date-based data.
+🛠 **Skills Utilized**  
+- **MySQL** for managing and querying structured data.  
+- **Common Table Expressions (CTEs)** for organizing complex queries.  
+- **Subqueries** to extract insights from nested queries.  
+- **Window Functions** for advanced calculations.  
+- **JOINs** to combine multiple tables.  
+- **Functions by Data Type** for text, numeric, and date data.  
 
+---
 
-## Features
-- Comprehensive analysis of MLB player data.
-- SQL queries optimized for performance and readability.
-- Insights into team spending, player careers, and attributes.
-- Data visualizations for better interpretation of trends.
-- Well-documented query explanations and database schema.
+✨ **Features**  
+- SQL queries optimized for performance and readability.  
+- Comprehensive analysis of MLB player data.  
+- Insights into team spending, player careers, and player attributes.  
+- Clear documentation of database schema and queries.  
+- Data visualizations to highlight patterns and trends.  
 
+---
 
-## Use Cases
-- **Scouting & Recruitment** - Identifying schools that consistently produce top-tier MLB players.
-- **Team Budgeting** - Analyzing how teams allocate salaries to improve financial planning.
-- **Player Performance Analysis** - Tracking player careers to understand performance trends and longevity.
-- **Attribute Comparisons** - Evaluating player attributes to uncover trends in height, weight, and other factors.
+📊 **Use Cases**  
+- **Scouting & Recruitment** → Spot schools consistently producing MLB talent.  
+- **Team Budgeting** → Analyze payroll strategies for smarter financial planning.  
+- **Player Performance Analysis** → Evaluate player careers and performance over time.  
+- **Attribute Comparisons** → Explore physical attributes to identify trends.  
 
+---
 
-## Deliverables
-- SQL queries for extracting insights from MLB data.
-- Data visualizations and reports on player statistics and team spending.
-- Documentation detailing the database schema and query explanations.
-- Jupyter notebooks or SQL scripts for reproducibility.
+📦 **Deliverables**  
+- SQL queries to extract insights from MLB datasets.  
+- Data visualizations and reports on players and teams.  
+- Documentation of schema and query logic.  
+- Jupyter Notebooks / SQL scripts for reproducibility.  
 
+---
 
-## Data Sources
-The dataset includes:
-- Player statistics (schools, salaries, teams, attributes)
-- Historical team payroll data
-- Career trajectories of players
+📂 **Data Sources**  
+- Player statistics (schools, salaries, teams, attributes).  
+- Historical team payroll data.  
+- Career trajectories of MLB players.  
 
-## Contact
-**Author**: Chaanyah Laborde <br>
-**Email**: [chaanyahlaborde@gmail.com](mailto:chaanyahlaborde@gmail.com) <br>
-**LinkedIn**: [claborde](https://www.linkedin.com/in/claborde/) <br>
+---
 
+📬 **Contact**  
+👩‍💻 Author: *Chaanyah Laborde*  
+✉️ Email: [chaanyahlaborde@gmail.com](mailto:chaanyahlaborde@gmail.com)  
+🔗 LinkedIn: [claborde](https://www.linkedin.com/in/claborde/)  
