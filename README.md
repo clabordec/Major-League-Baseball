@@ -36,7 +36,7 @@ This project analyzes decades' worth of Major League Baseball (MLB) data, focusi
 ---
 
 📂 **Repo Organization**  
-- `queries/` → Modular SQL scripts for reproducibility.
+- `queries/` → Organized SQL queries designed for reuse and transparent, reproducible analysis.
     - School Analysis.sql
     - Salary Analysis.sql
     - Player Career Analysis.sql 
