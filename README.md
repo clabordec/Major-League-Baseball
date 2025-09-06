@@ -27,20 +27,11 @@ This project analyzes decades' worth of Major League Baseball (MLB) data, focusi
 
 ---
 
-✨ **Features**  
-- SQL queries optimized for performance and readability.  
-- Comprehensive analysis of MLB player data.  
-- Insights into team spending, player careers, and player attributes.  
-- Clear documentation of database schema and queries.  
-- Data visualizations to highlight patterns and trends.  
-
----
-
-📊 **Use Cases**  
-- **Scouting & Recruitment** → Spot schools consistently producing MLB talent.  
-- **Team Budgeting** → Analyze payroll strategies for smarter financial planning.  
-- **Player Performance Analysis** → Evaluate player careers and performance over time.  
-- **Attribute Comparisons** → Explore physical attributes to identify trends.  
+✨ **Key Features**  
+- **Scouting & Recruitment** - Spot schools consistently producing MLB talent.  
+- **Team Budgeting** - Analyze payroll strategies for smarter financial planning.  
+- **Player Performance Analysis** - Evaluate player careers and performance over time.  
+- **Attribute Comparisons** - Explore physical attributes to identify trends.  
 
 ---
 
